@@ -1,0 +1,46 @@
+.content-container {
+  display: block;
+}
+
+.rovers-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card-container {
+  display: flex;
+  align-content: space-between;
+  flex-direction: column;
+  justify-content: center;
+  width: 16rem;
+  margin: 1rem 1rem;
+}
+.camera-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.camera-container button {
+  margin: 1rem 0.5rem;
+}
+h2 {
+  text-align: center;
+  background-color: darkgoldenrod;
+  opacity: 0.8;
+  margin: 0;
+}
+.range {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem;
+}
+.range-slider {
+  margin-top: 6%;
+}
+.submit-btn {
+  margin: 1rem 45%;
+}
