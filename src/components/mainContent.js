@@ -57,7 +57,7 @@ const MainContent = () => {
           <Card className='card-container color' border='primary'>
             <Card.Img
               variant='top'
-              src='https://imgclf.112.ua/original/2019/02/14/376939.jpg?timestamp=1550114664'
+              src='https://spacenews.com/wp-content/uploads/2015/03/opportunity-illus-879x485.jpg'
             />
             <Card.Body>
               <Card.Title>Opportunity</Card.Title>
